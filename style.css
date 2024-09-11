@@ -1,0 +1,17 @@
+
+
+
+.eraserActive,.dotsActive,.linesActive,.imageActive{
+    background-color: black;
+    color: white;
+}
+
+/* .dotsActive{
+    background-color: black;
+    color: white;
+}
+
+.linesActive{
+    background-color: black;
+    color: white;
+} */
